@@ -45,4 +45,8 @@ Other Written Works:
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021-Present, Member of the Committee on Teaching and Advising, Union College
+* 2018-Present, Member of the Writing Board, Union College
+* 2016-Present, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
+* 2015-Present, Member of the NY6 Information Literacy Blend and Learn Committee
+

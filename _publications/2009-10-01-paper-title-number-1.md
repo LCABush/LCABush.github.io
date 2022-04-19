@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Transforming Curiosity into Inquiry"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: http://www.worldcat.org/oclc/947819732
+date: 2016-10-01
+venue: 'The Future Scholar: Researching & Teaching the Frameworks for Writing & Information Literacy.'
+paperurl: 'http://www.worldcat.org/oclc/947819732'
+citation: 'Bush, Lindsay and Jillian Mason. “Transforming Curiosity into Inquiry.” <i>The Future Scholar: Researching & Teaching the Frameworks for Writing & Information Literacy.</i> Information Today Inc, 2016. pp. 23-43.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

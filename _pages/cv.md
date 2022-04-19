@@ -31,7 +31,8 @@ Work experience
 •	Assign tasks for and train the Assistant Librarians.
 
 Publications:
-Book Chapters:
+======
+### Book Chapters:
 * Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, forthcoming.
 
 * Bush, Lindsay and Courtney Seymour. “Identifying and Diluting the Dominant Flavor of a Source.” <i>The Critical Thinking about Sources Cookbook.</i> Ed. Sarah Morris. Chicago: Association of College and Research Libraries, 2020. pp. 35-36.
@@ -40,7 +41,7 @@ Book Chapters:
 
 * Bush, Lindsay and Jillian Mason. “Transforming Curiosity into Inquiry.” <i>The Future Scholar: Researching & Teaching the Frameworks for Writing & Information Literacy.</i> Information Today Inc, 2016. pp. 23-43.
 
-Other Written Works: 
+### Other Written Works: 
 * Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." <i>The One-shot Library Instruction Survival Guide.</i> Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
 
 Service and leadership

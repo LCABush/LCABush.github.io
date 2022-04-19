@@ -32,16 +32,16 @@ Work experience
 
 Publications:
 Book Chapters:
-* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession. Ed. Amanda Hess. ACRL, forthcoming.
+* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, forthcoming.
 
-* Bush, Lindsay and Courtney Seymour. “Identifying and Diluting the Dominant Flavor of a Source.” The Critical Thinking about Sources Cookbook. Ed. Sarah Morris. Chicago: Association of College and Research Libraries, 2020. pp. 35-36.
+* Bush, Lindsay and Courtney Seymour. “Identifying and Diluting the Dominant Flavor of a Source.” <i>The Critical Thinking about Sources Cookbook.</i> Ed. Sarah Morris. Chicago: Association of College and Research Libraries, 2020. pp. 35-36.
 
-* Bush, Lindsay, Gail Golderman, Robyn Reed, and Courtney Seymour. “Passport to Discovery: A Library Adventure.” Planning Academic Library Orientations: Examples and Strategies from Online Tutorials to Scavenger Hunts. Eds. Kylie Bailin, Ben Jahre, and Sarah Morris. Chandos, Elsevier, 2018. pp. 169-178.
+* Bush, Lindsay, Gail Golderman, Robyn Reed, and Courtney Seymour. “Passport to Discovery: A Library Adventure.” <i>Planning Academic Library Orientations: Examples and Strategies from Online Tutorials to Scavenger Hunts.</i> Eds. Kylie Bailin, Ben Jahre, and Sarah Morris. Chandos, Elsevier, 2018. pp. 169-178.
 
-* Bush, Lindsay and Jillian Mason. “Transforming Curiosity into Inquiry.” The Future Scholar: Researching & Teaching the Frameworks for Writing & Information Literacy. Information Today Inc, 2016. pp. 23-43.
+* Bush, Lindsay and Jillian Mason. “Transforming Curiosity into Inquiry.” <i>The Future Scholar: Researching & Teaching the Frameworks for Writing & Information Literacy.</i> Information Today Inc, 2016. pp. 23-43.
 
 Other Written Works: 
-* Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." The One-shot Library Instruction Survival Guide. Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
+* Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." <i>The One-shot Library Instruction Survival Guide.</i> Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
 
 Service and leadership
 ======

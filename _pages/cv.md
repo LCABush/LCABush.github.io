@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in English, State University of New York at Oneonta, 2007
-* M.S. in Library and Information Science, Simmons College, 2010
+* M.S. from the School of Library and Information Science, Simmons College, 2010
 
 Work experience
 ======

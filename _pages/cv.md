@@ -28,7 +28,7 @@ Work experience
   * Created and conducted assessments to make sure faculty were following the information literacy plan and continually present this information to faculty members and administration.
   * Collaborated with faculty members on best practices on how to incorporate information literacy into the curriculum and how to create individual assignments.
   * Provide reference assistance for the medical, business, and office technology subject fields.
-•	Assign tasks for and train the Assistant Librarians.
+  * Assign tasks for and train the Assistant Librarians.
 
 Publications:
 ======

@@ -48,6 +48,6 @@ Service and leadership
 ======
 * 2021-Present, Member of the Committee on Teaching and Advising, Union College
 * 2018-Present, Member of the Writing Board, Union College
-* 2016-Present, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
 * 2015-Present, Member of the NY6 Information Literacy Blend and Learn Committee
+* 2016-2022, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
 

@@ -14,7 +14,7 @@ Education
 * B.S. in English, State University of New York at Oneonta, 2007
 * M.S. from the School of Library and Information Science, Simmons College, 2010
 
-Work experience
+Work Experience
 ======
 * 2015-Present: Instructional Services Librarian, Union College
   * Design, coordinate, and assess all the components of the information literacy program.
@@ -44,7 +44,7 @@ Publications:
 ### Other Written Works: 
 * Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." <i>The One-shot Library Instruction Survival Guide.</i> Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
 
-Service and leadership
+Service and Leadership
 ======
 * 2021-Present, Member of the Committee on Teaching and Advising, Union College
 * 2018-Present, Member of the Writing Board, Union College

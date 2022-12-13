@@ -16,7 +16,7 @@ Education
 
 Work Experience
 ======
-* 2015-Present: Instructional Services Librarian, Union College
+* November 2015-Present: Instructional Services Librarian, Union College
   * Design, coordinate, and assess all the components of the information literacy program.
   * Prepare and conduct instruction sessions across all levels and departments.
   * Design and develop information literacy experiences, spaces, and technologies.

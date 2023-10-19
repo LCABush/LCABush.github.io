@@ -16,7 +16,10 @@ Education
 
 Work Experience
 ======
-* November 2015-Present: Instructional Services Librarian, Union College
+*January 2023-Present: Reference and Instruction Librarian, Union College
+  * Coordinate and staff all reference service points within the library.
+  * Teach within the information literacy program.
+* November 2015-December 2022: Instructional Services Librarian, Union College
   * Design, coordinate, and assess all the components of the information literacy program.
   * Prepare and conduct instruction sessions across all levels and departments.
   * Design and develop information literacy experiences, spaces, and technologies.
@@ -46,8 +49,8 @@ Publications:
 
 Service and Leadership
 ======
-* 2021-Present, Member of the Committee on Teaching and Advising, Union College
 * 2018-Present, Member of the Writing Board, Union College
 * 2015-Present, Member of the NY6 Information Literacy Blend and Learn Committee
+* 2021-2022, Member of the Committee on Teaching and Advising, Union College
 * 2016-2022, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
 

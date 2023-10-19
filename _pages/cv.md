@@ -36,7 +36,7 @@ Work Experience
 Publications:
 ======
 ### Book Chapters:
-* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, forthcoming.
+* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, 2023.
 
 * Bush, Lindsay and Courtney Seymour. “Identifying and Diluting the Dominant Flavor of a Source.” <i>The Critical Thinking about Sources Cookbook.</i> Ed. Sarah Morris. Chicago: Association of College and Research Libraries, 2020. pp. 35-36.
 

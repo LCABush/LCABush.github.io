@@ -35,6 +35,12 @@ Work Experience
 
 Publications:
 ======
+### Conference Poster:
+* Bush, Lindsay. “Making Misconceptions Visible.” The Innovative Library Classroom (TILC), 1 June 2023, William and Mary College, Williamsburg, VA. Poster Presentation.
+
+### Conference Presentations:
+* Bush, Lindsay and Jenna Pitera. “Exit Tickets: Your Key to Creating a Student Focused Instruction Program.” SUNY Librarians Association (SUNYLA), 15 June 2023, SUNY Maritime College, Throggs Neck, NY. Conference Presentation.
+
 ### Book Chapters:
 * Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, 2023.
 

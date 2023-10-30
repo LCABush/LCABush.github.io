@@ -14,9 +14,12 @@ Education
 * B.S. in English, State University of New York at Oneonta, 2007
 * M.S. from the School of Library and Information Science, Simmons College, 2010
 
-Work experience
+Work Experience
 ======
-* 2015-Present: Instructional Services Librarian, Union College
+*January 2023-Present: Reference and Instruction Librarian, Union College
+  * Coordinate and staff all reference service points within the library.
+  * Teach within the information literacy program.
+* November 2015-December 2022: Instructional Services Librarian, Union College
   * Design, coordinate, and assess all the components of the information literacy program.
   * Prepare and conduct instruction sessions across all levels and departments.
   * Design and develop information literacy experiences, spaces, and technologies.
@@ -32,8 +35,14 @@ Work experience
 
 Publications:
 ======
+### Conference Poster:
+* Bush, Lindsay. “Making Misconceptions Visible.” The Innovative Library Classroom (TILC), 1 June 2023, William and Mary College, Williamsburg, VA. Poster Presentation.
+
+### Conference Presentations:
+* Bush, Lindsay and Jenna Pitera. “Exit Tickets: Your Key to Creating a Student Focused Instruction Program.” SUNY Librarians Association (SUNYLA), 15 June 2023, SUNY Maritime College, Throggs Neck, NY. Conference Presentation.
+
 ### Book Chapters:
-* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, forthcoming.
+* Bush, Lindsay and Adam Mazel. “Time for Change: Transforming Library Instruction for Transformative Learning.” <i>Instructional Identities and Information Literacy, Volume 2: Transforming Our Programs, Institutions, and Profession.</i> Ed. Amanda Hess. ACRL, 2023.
 
 * Bush, Lindsay and Courtney Seymour. “Identifying and Diluting the Dominant Flavor of a Source.” <i>The Critical Thinking about Sources Cookbook.</i> Ed. Sarah Morris. Chicago: Association of College and Research Libraries, 2020. pp. 35-36.
 
@@ -44,10 +53,10 @@ Publications:
 ### Other Written Works: 
 * Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." <i>The One-shot Library Instruction Survival Guide.</i> Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
 
-Service and leadership
+Service and Leadership
 ======
-* 2021-Present, Member of the Committee on Teaching and Advising, Union College
 * 2018-Present, Member of the Writing Board, Union College
 * 2015-Present, Member of the NY6 Information Literacy Blend and Learn Committee
+* 2021-2022, Member of the Committee on Teaching and Advising, Union College
 * 2016-2022, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
 

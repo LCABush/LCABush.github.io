@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Lindsay Bush, Associate Librarian, is the Instructional Services Librarian at Union College where she coordinates the library instruction program. Her scholarly interests have developed around three interest areas: the overlap between writing, reading, and research; authentic learning; and new ways to teach information literacy. Most recently, inspired by previous work she completed on how to engage with and challenge students’ misconceptions about research, she co-authored a chapter on applying Transformative Learning Theory to library instruction.  
+Lindsay Bush is the Reference and Instruction Librarian at Union College. Her scholarly interests have developed around three interest areas: the overlap between writing, reading, and research; authentic learning; and new ways to teach information literacy. Most recently, inspired by previous work she completed on how to engage with and challenge students’ misconceptions about research, she co-authored a chapter on applying Transformative Learning Theory to library instruction.  

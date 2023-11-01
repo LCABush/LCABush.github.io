@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* 2015-Present: Instructional Services Librarian, Union College
+*2022-Present: Reference and Instruction Librarian, Union College
+  * Coordinate reference assistance across different departments and platforms.
+  * Design and develop subject guides and library instructional tutorials.
+* 2015-2022: Instructional Services Librarian, Union College
   * Design, coordinate, and assess all the components of the information literacy program.
   * Prepare and conduct instruction sessions across all levels and departments.
   * Design and develop information literacy experiences, spaces, and technologies.

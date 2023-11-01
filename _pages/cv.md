@@ -47,6 +47,12 @@ Publications:
 ### Other Written Works: 
 * Bush, Lindsay. "Vignette: Meeting Them Where They Live with Mind Maps." <i>The One-shot Library Instruction Survival Guide.</i> Ed. Heidi E. Buchanan and Beth A. McDonough. 3rd ed. Chicago: ALA Editions, 2021.
 
+### Conference Presentations: 
+* Bush, Lindsay and Jenna Pitera. “Exit Tickets: Your Key to Creating a Student Focused Instruction Program.” <i>SUNY Librarians Association (SUNYLA),</i> 15 June 2023, SUNY Maritime College, Throggs Neck, NY. Conference Presentation.
+
+### Poster Presentations:
+* Bush, Lindsay. “Making Misconceptions Visible.” <i> The Innovative Library Classroom (TILC),</i> 1 June 2023, William and Mary College, Williamsburg, VA. Poster Presentation.
+
 Service and leadership
 ======
 * 2021-Present, Member of the Committee on Teaching and Advising, Union College

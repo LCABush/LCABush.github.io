@@ -1,5 +1,5 @@
 ---
-title: "Identifying and Diluting the Dominant Flavor of a Source"
+title: 'Identifying and Diluting the Dominant Flavor of a Source'
 collection: publications
 permalink: https://scarab.bates.edu/ils_scholarship/9/#.YmLqHb-cSF4.link
 paperurl: 'https://scarab.bates.edu/ils_scholarship/9/#.YmLqHb-cSF4.link'

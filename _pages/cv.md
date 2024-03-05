@@ -56,8 +56,11 @@ Publications:
 
 Service and leadership
 ======
-* 2021-Present, Member of the Committee on Teaching and Advising, Union College
-* 2018-Present, Member of the Writing Board, Union College
-* 2015-Present, Member of the NY6 Information Literacy Blend and Learn Committee
-* 2016-2022, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
+* CURRENT
+  *  2022 – Present, Accessibility Ambassador, Union College
+  *  2018 - Present, Member of the Writing Board, Union College
+  *  2015 - Present, Member of the NY6 Information Literacy Blend and Learn Committee
+* PREVIOUS
+  * 2021-2023, Member of the Committee on Teaching and Advising, Union College
+  * 2016-2022, Academic Library Representative to the Capital Region BOCES School Library System Advisory Council
 
